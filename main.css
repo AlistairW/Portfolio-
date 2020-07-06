@@ -1,0 +1,62 @@
+body, html{
+  height:100%;
+  margin:0;
+  color: #fff;
+  font-family: 'Montserrat'
+
+}
+
+a{
+  color: #fff;
+  text-decoration: none;
+}
+
+body{
+  background: url("BG.svg") no-repeat;
+  background-size: cover;
+  padding-bottom: 500px;
+}
+
+nav{
+  padding: 50px;
+}
+
+nav ul {
+  list-style-type: none;
+  float: right;
+}
+
+nav ul li {
+  color: #000;
+  padding: 0 30px;
+  display: inline;
+}
+
+li a{
+  color: black;
+
+}
+
+li a:hover{
+  text-decoration: underline;
+}
+
+#logo{
+  font-size: 2em;
+  text-shadow: 0 0 3px #fff;
+  color: #fff;
+}
+#logo:hover{
+  text-shadow: 0 0 4px #fff;
+  text-decoration: none;
+  color: #fff;
+}
+img{
+  margin-top: 100px;
+  left: 30%;
+  position: relative;
+}
+-----------------------------------------------------------------------
+<!--arrow-->
+
+-------------------------------------------------------------------------------
